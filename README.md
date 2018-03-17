@@ -1,2 +1,2 @@
 # Jupiter-notebook
-homework
+Мои заметки и шапоры по Python.
